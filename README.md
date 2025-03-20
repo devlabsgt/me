@@ -37,9 +37,3 @@ La página se recargará si realizas modificaciones.
 
 Abre la carpeta del proyecto y navega hasta `/src/components/`. <br/>  
 Ahí encontrarás todos los componentes utilizados y podrás editar tu información según sea necesario.
-
-### Muestra tu apoyo
-
-¡Dale una ⭐ si te gusta este sitio web!
-
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
