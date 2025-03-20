@@ -1,39 +1,8 @@
-<h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
-</h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
+## Construido con
 
-<br/>
+Mi portafolio personal <a href="https://oscar27jimenez/" target="_blank">Oscar Jiménez</a>, que presenta algunos de mis proyectos, así como mi currículum y habilidades técnicas.<br/>
 
-<center>
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
-
-</center>
-
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
-
-## TL;DR
-
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
-
-## Built With
-
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
-
-This project was built using these technologies.
+Este proyecto fue construido utilizando estas tecnologías.
 
 - React.js
 - Node.js
@@ -42,35 +11,35 @@ This project was built using these technologies.
 - VsCode
 - Vercel
 
-## Features
+## Características
 
-**📖 Multi-Page Layout**
+**📖 Diseño Multi-Página**
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+**🎨 Estilizado con React-Bootstrap y CSS con colores fáciles de personalizar**
 
-**📱 Fully Responsive**
+**📱 Totalmente Responsivo**
 
-## Getting Started
+## Cómo empezar
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+Clona este repositorio. Necesitarás tener `node.js` y `git` instalados globalmente en tu máquina.
 
-## 🛠 Installation and Setup Instructions
+## 🛠 Instrucciones de Instalación y Configuración
 
-1. Installation: `npm install`
+1. Instalación: `npm install`
 
-2. In the project directory, you can run: `npm start`
+2. En el directorio del proyecto, puedes ejecutar: `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+Ejecuta la aplicación en modo desarrollo.\  
+Abre [http://localhost:3000](http://localhost:3000) para verlo en el navegador.  
+La página se recargará si realizas modificaciones.
 
-## Usage Instructions
+## Instrucciones de Uso
 
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+Abre la carpeta del proyecto y navega hasta `/src/components/`. <br/>  
+Ahí encontrarás todos los componentes utilizados y podrás editar tu información según sea necesario.
 
-### Show your support
+### Muestra tu apoyo
 
-Give a ⭐ if you like this website!
+¡Dale una ⭐ si te gusta este sitio web!
 
 <a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
