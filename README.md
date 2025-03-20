@@ -1,6 +1,6 @@
 ## Construido con
 
-Mi portafolio personal <a href="https://oscar27jimenez/" target="_blank">Oscar Jiménez</a>, que presenta algunos de mis proyectos, así como mi currículum y habilidades técnicas.<br/>
+Mi portafolio personal <a href="https://oscar27jimenez.com/" target="_blank">Oscar Jiménez</a>, que presenta algunos de mis proyectos, así como mi currículum y habilidades técnicas.<br/>
 
 Este proyecto fue construido utilizando estas tecnologías.
 
